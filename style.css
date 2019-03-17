@@ -1,0 +1,54 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background: url(img/mosaic.png)
+}
+
+.cp{
+   
+    background-color:#f7f0f0;
+    border-bottom:4px solid #a67c00;
+}
+
+.bg{
+    background-color: #bf9b30;
+}
+
+
+
+footer{
+
+    background-color: #777777;
+
+}
+h2{
+    color: #a67c00;
+    
+
+}
+#bio{
+    line-height: 33px;
+}
+#about-me{
+    color: #a67c00;
+    font-size: 50px;
+}
+.relleno{ height: 120px;;
+}
+
+.pfpic{
+    height: 250px;
+    margin-bottom: 20px;
+}
+
+.pf{
+    text-align: center;
+    background-color: #bf9b30;
+}
+
+#icon{
+    font-size: 50px;
+    color: #f7f0f0;
+}
